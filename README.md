@@ -11,7 +11,7 @@
 [slides](https://docs.google.com/presentation/d/1aWIz5D-LeToKNlSs2hAUZMr7NghOC65OlCWeXIwRFo0/edit?usp=sharing)
 
 * Problems with ML Interpretability: 
-[video](https://youtu.be/TzjRo8GqJ2k)
+[video](https://youtu.be/TzjRo8GqJ2k),
 [slides](https://docs.google.com/presentation/d/1859VeO5eN4OmlYGQhmhvhpggPDWrsFWOAS-7DaTaTE4/edit?usp=sharing)
 
 * Проблемы интерпритации МЛ моделей в табличных задачах:
