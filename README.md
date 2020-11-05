@@ -7,15 +7,15 @@
 ### Recent Talks 
 
 * AutoGraph: Graphs Meet AutoML: 
-[video](https://youtu.be/DWn82bIhxdI) (temporary private link), 
+[video](https://youtu.be/DWn82bIhxdI), 
 [slides](https://docs.google.com/presentation/d/1aWIz5D-LeToKNlSs2hAUZMr7NghOC65OlCWeXIwRFo0/edit?usp=sharing)
 
 * Problems with ML Interpretability: 
 [video](https://youtu.be/TzjRo8GqJ2k),
 [slides](https://docs.google.com/presentation/d/1859VeO5eN4OmlYGQhmhvhpggPDWrsFWOAS-7DaTaTE4/edit?usp=sharing)
 
-* Проблемы интерпритации МЛ моделей в табличных задачах:
-[video](https://youtu.be/jOfl9_utKx8) (temporary private link),
+* Problems of machine learning interpretability in tabular tasks (Проблемы интерпритации МЛ моделей в табличных задачах):
+[video](https://youtu.be/jOfl9_utKx8) (in Russian),
 [slides](https://docs.google.com/presentation/d/1hRvRoRqDU9dkf1i_EqoaCViyconS3EXgYhUEsbzzLx4/edit?usp=sharing)
 
 * Time series met AutoML:
@@ -28,8 +28,8 @@
 [slides](https://docs.google.com/presentation/d/1sJ5YKbnVVHF0WEdWw0pX67zt5zb5T3DMK9xScPf-cOg/edit?usp=sharing),
 [blog post](https://towardsdatascience.com/automl-is-overhyped-1b5511ded65f?source=friends_link&sk=77aee47bfd9df6e00fbdc4e83cfa5ce9)
 
-* Почему вам не стоит участвовать в хакатонах:
-[video](https://youtu.be/aNBtteJFdZ8),
+* Why you should't participate in hackathons (Почему вам не стоит участвовать в хакатонах):
+[video](https://youtu.be/aNBtteJFdZ8) (in Russian),
 [slides](https://docs.google.com/presentation/d/1VcxpS_H9MDRqJ1RoXKxs4DG5bwM13a5W8qS0xPIJ9Uk/edit?usp=sharing)
 
 
