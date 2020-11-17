@@ -6,6 +6,10 @@
 
 ### Recent Talks 
 
+* Explaining ML models in 2020: 
+[video](https://youtu.be/P3n8CVbb01Q),
+[slides](https://docs.google.com/presentation/d/1evrfaXrUFmBKhLYO31DEhw-fji9QM7snrkPRDMxMCh0/edit?usp=sharing)
+
 * AutoGraph: Graphs Meet AutoML: 
 [video](https://youtu.be/DWn82bIhxdI), 
 [slides](https://docs.google.com/presentation/d/1aWIz5D-LeToKNlSs2hAUZMr7NghOC65OlCWeXIwRFo0/edit?usp=sharing)
@@ -14,7 +18,7 @@
 [video](https://youtu.be/TzjRo8GqJ2k),
 [slides](https://docs.google.com/presentation/d/1859VeO5eN4OmlYGQhmhvhpggPDWrsFWOAS-7DaTaTE4/edit?usp=sharing)
 
-* Problems of machine learning interpretability in tabular tasks (Проблемы интерпритации МЛ моделей в табличных задачах):
+* Проблемы интерпритации МЛ моделей в табличных задачах (Problems of machine learning interpretability in tabular tasks):
 [video](https://youtu.be/jOfl9_utKx8) (in Russian),
 [slides](https://docs.google.com/presentation/d/1hRvRoRqDU9dkf1i_EqoaCViyconS3EXgYhUEsbzzLx4/edit?usp=sharing)
 
@@ -28,7 +32,7 @@
 [slides](https://docs.google.com/presentation/d/1sJ5YKbnVVHF0WEdWw0pX67zt5zb5T3DMK9xScPf-cOg/edit?usp=sharing),
 [blog post](https://towardsdatascience.com/automl-is-overhyped-1b5511ded65f?source=friends_link&sk=77aee47bfd9df6e00fbdc4e83cfa5ce9)
 
-* Why you should't participate in hackathons (Почему вам не стоит участвовать в хакатонах):
+* Почему вам не стоит участвовать в хакатонах (Why you should't participate in hackathons):
 [video](https://youtu.be/aNBtteJFdZ8) (in Russian),
 [slides](https://docs.google.com/presentation/d/1VcxpS_H9MDRqJ1RoXKxs4DG5bwM13a5W8qS0xPIJ9Uk/edit?usp=sharing)
 
