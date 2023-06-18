@@ -6,6 +6,9 @@
 
 ### Recent Talks 
 
+* DIS22: Two-stage RecSys at Unity Ads:
+[video](https://youtu.be/hEqE_TRpvTw)
+
 * Explaining ML models in 2020: 
 [video](https://youtu.be/P3n8CVbb01Q),
 [slides](https://docs.google.com/presentation/d/1evrfaXrUFmBKhLYO31DEhw-fji9QM7snrkPRDMxMCh0/edit?usp=sharing)
@@ -38,6 +41,12 @@
 
 
 ### Recent Blog Posts  
+
+* [On AB tests and Carryover Effect](https://towardsdatascience.com/on-ab-tests-and-carryover-effect-43668dbd52e2?sk=b5a57177b5d584c06d4820f7f953051b)
+
+* [Is Attention Explanation?](https://towardsdatascience.com/is-attention-explanation-b609a7b0925c?sk=3587a73d581c00db40ab603e12fa8fd5)
+
+* [How to Write a Data Science Resume](https://towardsdatascience.com/how-to-write-a-data-science-resume-3cc7de25b149?sk=3fee9246210242fb3e32dec763cac281)
 
 * [What’s Wrong with LIME](https://towardsdatascience.com/whats-wrong-with-lime-86b335f34612?source=friends_link&sk=5ebe02a3e48d0101861a3b27236d4e33)
 
