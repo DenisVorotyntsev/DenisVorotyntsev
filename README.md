@@ -6,7 +6,7 @@
 
 ### Recent Talks 
 
-* DIS22: Two-stage RecSys at Unity Ads:
+* Two-stage RecSys at Unity Ads:
 [video](https://youtu.be/hEqE_TRpvTw)
 
 * Explaining ML models in 2020: 
